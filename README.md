@@ -26,7 +26,7 @@ With a keen interest in **web development** and **programming**, I enjoy explori
 ---
 
 ## 🌐 Find Me Online
-- 🌍 [Portfolio](https://paresh-mistry.github.io/MyPortfolio)
+- 🌍 [Portfolio](https://paresh-mistry.github.io/paresh-dev)
 - 🐙 [GitHub](https://github.com/Paresh-Mistry)
 - 💼 [LinkedIn](https://www.linkedin.com/in/paresh-mistry-975b64270/)
 - 📧 Email: [paresh.mistry@somaiya.edu](mailto:paresh.mistry@somaiya.edu)
