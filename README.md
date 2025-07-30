@@ -10,18 +10,18 @@ With a keen interest in **web development** and **programming**, I enjoy explori
 ## 🛠️ Skills
 
 ### **Frontend**
-- HTML | CSS | JavaScript | React.js
-- Tailwind CSS | Bootstrap
+- HTML | CSS | JavaScript | React.js | Next.js
+- Tailwind CSS | Bootstrap | Radix
 
 ### **Backend**
-- Python | Flask | Django | Golang
-- MySQL | MongoDB | SQLite
+- Python | Flask | Django | FastAPI | GraphQL
+- MySQL | MongoDB | Postgresql 
 
 ### **DevOps**
 - Git & GitHub
 
 ### **Programming Languages**
-- Python | C | C++ | Java
+- Python | C | C++ | JavaScript
 
 ---
 
